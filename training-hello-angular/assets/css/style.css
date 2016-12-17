@@ -1,0 +1,35 @@
+.no-padding {
+    padding: 0px;
+}
+
+.bg-green {
+    background-color: green !important;
+}
+
+.bg-red {
+    background-color: red !important;
+}
+
+.bg-gray {
+    background-color: gray !important;
+}
+
+.gray {
+    color: gray !important;
+}
+
+.small {
+    font-size: small;
+}
+
+.border-right {
+    border-right: 1px solid #eee;
+}
+
+.blocked {
+    opacity: 0.4;
+}
+
+.close {
+    padding-left: 15px !important;
+}
